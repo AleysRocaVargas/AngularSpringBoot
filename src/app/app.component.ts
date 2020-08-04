@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'cliente-app';
+  programador='Arleys Roca';
+  motivacion='Quiero aprender a hacer plataformas web';
 }
