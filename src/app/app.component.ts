@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cliente-app';
+  title = 'Votacion electronica para propiedades horizontales en Colombia';
   programador='Arleys Roca';
-  motivacion='Quiero aprender a hacer plataformas web';
+  motivacion='Quiero aprender a hacer plataformas web y graduarme de la UDC';
 }
